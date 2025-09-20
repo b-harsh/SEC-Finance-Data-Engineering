@@ -1,5 +1,3 @@
-# Project-Three
-
 ## SEC Finance Data ( Data Engineering )
 
 ## Overview
