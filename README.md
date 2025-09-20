@@ -184,4 +184,3 @@ MongoDB Atlas is a cloud offering of MongoDB database. In addition to providing 
 * https://www.sec.gov/edgar/sec-api-documentation
 * https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
 
-
